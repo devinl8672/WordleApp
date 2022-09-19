@@ -33,8 +33,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='Wordle1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Wordle2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
+https://imgur.com/a/IcFU5TO
 GIF created with LiceCap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
