@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div display="flex" flex-direction="row">
+<div display="flex" flex-direction="row" justify-content="space-around">
     <img src='Wordle1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
     <img src='Wordle2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 </div>
